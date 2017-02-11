@@ -1,0 +1,54 @@
+{
+  "name": "acbot",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "",
+  "author": "",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    ""
+  ],
+  "scripts": {
+    "bot": "node ./lib/index.js",
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "child-process-promise": "^2.2.0",
+    "clapp": "^1.1.1",
+    "discord.io": "^2.4.2",
+    "discord.js": "^11.0.0",
+    "is-reachable": "^2.2.0",
+    "jsonfile": "^2.4.0",
+    "moment": "^2.17.1",
+    "node-exec-promise": "^0.1.1",
+    "node-schedule": "^1.2.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-xo-space": "^0.15.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-line-ending-corrector": "^1.0.1",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-mocha": "^3.0.1",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0"
+  },
+  "eslintConfig": {
+    "extends": "xo-space",
+    "env": {
+      "mocha": true
+    }
+  },
+  "repository": "jovrtn/acbot"
+}
