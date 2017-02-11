@@ -1,30 +1,40 @@
-{
-    "Leafcull": {
-        "icon": "http://acpedia.org/images/b/b6/Leafcull.png"
-    },
-    "Morningthaw": {
-        "icon": "http://acpedia.org/images/1/11/Morningthaw.png"
-    },
-    "Darktide": {
-        "icon": "http://acpedia.org/images/b/b8/Darktide.png"
-    },
-    "Harvestgain": {
-        "icon": "http://acpedia.org/images/2/2d/Harvestgain.png"
-    },
-    "Thistledown": {
-        "icon": "http://acpedia.org/images/f/f6/Thistledown.png"
-    },
-    "Verdantine": {
-        "icon": "http://acpedia.org/images/a/a1/Verdantine.png"
-    },
-    "Wintersebb": {
-        "icon": "http://acpedia.org/images/4/41/Wintersebb.png"
-    },
-    "Solclaim": {
-        "icon": "http://acpedia.org/images/a/a5/Solclaim.png"
-    },
-    "Frostfell": {
-        "icon": "http://acpedia.org/images/2/24/Frostfell.png"
-    },
-    "Dawnsong": {}
-}
+[{
+  "displayName": "Leafcull",
+  "names": ["Leafcull", "LC"],
+  "icon": "http://acpedia.org/images/b/b6/Leafcull.png"
+}, {
+  "displayName": "Morningthaw",
+  "names": ["Morningthaw", "MT"],
+  "icon": "http://acpedia.org/images/1/11/Morningthaw.png"
+}, {
+  "displayName": "Darktide",
+  "names": ["Darktide", "DT"],
+  "icon": "http://acpedia.org/images/b/b8/Darktide.png"
+}, {
+  "displayName": "Harvestgain",
+  "names": ["Harvestgain", "HG"],
+  "icon": "http://acpedia.org/images/2/2d/Harvestgain.png"
+}, {
+  "displayName": "Thistledown",
+  "names": ["Thistledown", "TD"],
+  "icon": "http://acpedia.org/images/f/f6/Thistledown.png"
+}, {
+  "displayName": "Verdantine",
+  "names": ["Verdantine", "VT"],
+  "icon": "http://acpedia.org/images/a/a1/Verdantine.png"
+}, {
+  "displayName": "Wintersebb",
+  "names": ["Wintersebb", "WE"],
+  "icon": "http://acpedia.org/images/4/41/Wintersebb.png"
+}, {
+  "displayName": "Solclaim",
+  "names": ["Solclaim", "SC"],
+  "icon": "http://acpedia.org/images/a/a5/Solclaim.png"
+}, {
+  "displayName": "Frostfell",
+  "names": ["Frostfell", "FF"],
+  "icon": "http://acpedia.org/images/2/24/Frostfell.png"
+}, {
+  "displayName": "Dawnsong",
+  "names": ["Dawnsong", "DS"]
+}]
