@@ -14,6 +14,13 @@ module.exports = {
   // Then create a new application and grab your token.
   token: "Mjc4MjgwMjI0NjM3MTkwMTQ2.C3qAaQ.BBh8_ULhrCCwD457yILaD4lbnUo",
 
+  webhooks: {
+      reddit: {
+          id: 279154101626077184,
+          token: 'EMbLEoQHBZqhkMKDoUtcWmKY3peC6YELkVuwzhGCP1QrQgq6mwbpfdinBoNtBn9NBbo9'
+      }
+  },
+
   // If this option is enabled, the bot will delete the message that triggered it, and its own
   // response, after the specified amount of time has passed.
   // Enable this if you don't want your channel to be flooded with bot messages.
