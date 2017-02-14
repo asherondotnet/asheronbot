@@ -1,0 +1,17 @@
+[{
+  "name": "Pea's Test Server",
+  "address": "75.63.120.231",
+  "port": 9050
+}, {
+  "name": "Megaduck AC",
+  "address": "ac.megaduck.com",
+  "port": 9050
+}, {
+  "name": "Yew's Plugins Server",
+  "address": "ac.yewsplugins.com",
+  "port": 9999
+}, {
+  "name": "Immortalbob's Server",
+  "address": "immortalbob.dynu.com",
+  "port": 9040
+}]
