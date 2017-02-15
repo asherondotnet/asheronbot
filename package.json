@@ -22,6 +22,7 @@
     "clapp": "^1.1.1",
     "discord.io": "^2.4.2",
     "discord.js": "^11.0.0",
+    "dotenv": "^4.0.0",
     "jsonfile": "^2.4.0",
     "node-schedule": "^1.2.0",
     "request": "^2.79.0",
