@@ -20,7 +20,6 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "clapp": "^1.1.1",
-    "discord.io": "^2.4.2",
     "discord.js": "^11.0.0",
     "dotenv": "^4.0.0",
     "jsonfile": "^2.4.0",
@@ -47,6 +46,5 @@
     "env": {
       "mocha": true
     }
-  },
-  "repository": "jovrtn/acbot"
+  }
 }
