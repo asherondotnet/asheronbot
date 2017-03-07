@@ -13,7 +13,7 @@
   ],
   "scripts": {
     "bot": "node ./lib/index.js",
-    "prepublish": "gulp prepublish",
+    "prepublish": "gulp prepublish"
   },
   "license": "ISC",
   "dependencies": {
